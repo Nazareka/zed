@@ -734,6 +734,7 @@ impl VsCodeSettings {
                         ShowCloseButton::Hidden
                     }
                 }),
+            show_dirty_indicator: None,
         })
     }
 
